@@ -1,0 +1,27 @@
+.div_a {
+    background-color: orange; 
+    height: 500px; 
+    width: 500px;
+}
+.div_filha_a {
+    background-color: #008000; 
+    height: 250px; 
+    width: 250px;
+}
+.div_filha_b {
+    font: 25px; 
+    color: white; 
+    background-color: red;
+     font-family: monospace; 
+     font-weight: bold;
+}
+.div_c {
+    width: 50%; 
+    height: 50%; 
+    background-color: rgb(99, 99, 245);
+}
+.div_filha_c {
+    width: 75%; 
+    height: 50%; 
+    background-color: rgb(241, 80, 80);
+}
